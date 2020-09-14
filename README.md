@@ -19,3 +19,7 @@ Value capture (extract and sustain added value)
 ## 4. Execution
 Note many challenges
 Mitigation of risks
+
+Introductory presentation available in Code tab
+
+Contact owner for full presentations and further information
